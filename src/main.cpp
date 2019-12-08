@@ -13,8 +13,8 @@
 //#define CAMERA_MODEL_M5STACK_PSRAM
 #define CAMERA_MODEL_AI_THINKER
 
-const char* ssid = "DouglasFibre Basement24";
-const char* password = "ditnetwerkisbeveiligdmetwpa";
+const char* ssid = "******";
+const char* password = "******";
 
 
 #if defined(CAMERA_MODEL_WROVER_KIT)
